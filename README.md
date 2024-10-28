@@ -1,1 +1,1 @@
-# dinogame
+# https://monjeydaguineapig.github.io/dinogame/
